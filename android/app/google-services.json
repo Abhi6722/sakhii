@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726462676449",
+    "project_id": "sakhii-de23e",
+    "storage_bucket": "sakhii-de23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726462676449:android:09ad9d3ca9b8972bb526a0",
+        "android_client_info": {
+          "package_name": "in.abhi6722.sakhii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptNAkOKr2_n_RC90LnaqT1T-2qRmqqJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
